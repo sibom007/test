@@ -1,0 +1,108 @@
+
+.header{
+    background-size: cover;
+    height:800px;
+    background-image: url('../image/banner/banner3.png');
+    text-align: right;
+    padding-top:150px;
+    font-size:35px;
+    padding-right:60px;
+    color: white;
+  
+}
+.btn{
+  height:40px;
+  background-color: white;
+  padding-left:20px;
+  padding-right:20px;
+  border: none;
+  border-radius: 5px;
+  font-size:18px;
+  color: rgb(67, 67, 237);
+}
+.line{
+    display: flex;
+  padding:180px;
+}
+.text{
+    font-size:15px;
+    padding-top: 200px;
+  
+    
+}
+/* 3rd part */
+.title{
+  text-align: center;
+  font-size:40px;
+}
+.image{
+  display: flex;
+
+}
+.one{
+  margin: 0px 100px;
+}
+
+.two{
+  margin: 0px 100px;
+}
+.three{
+  margin: 0px 100px;
+}
+.four{
+  margin: 0px 125px;
+}
+/* 4th part */
+.colour{
+ background: linear-gradient(86deg, rgba(6,106,170,1) 5%, rgba(37,192,252,0.0536634466621313) 48%),url('../image/watch.png');
+height: 200px;
+background-repeat: no-repeat;
+margin-left:100px;
+margin-top: 200px;
+}
+.size{
+  font-size: 45px;
+  margin-left:75px;
+  padding-top:50px;
+  color: white;
+}
+.btn2{
+  height:40px;
+  background-color: white;
+  padding-left:20px;
+  padding-right:20px;
+  border: none;
+  border-radius: 5px;
+  font-size:18px;
+  color: rgb(67, 67, 237);
+  margin-left:75px;
+}
+/* 5th part */
+.last{
+  display: flex;
+  margin-top: 100px;
+  
+}
+.last1{
+  font-size:25px ;
+  color: white;
+}
+.last2{
+  font-size: 20px;
+  padding-left: 250px;
+  color: white;
+}
+.btn3{
+  height:35px;
+  background-color: rgb(7, 244, 153);
+  padding-left:15px;
+  padding-right:15px;
+  border: none;
+  border-radius: 5px;
+  font-size:18px;
+  color: rgb(67, 67, 237);
+  margin-top: 15px;
+}
+.last3{
+  background-color: black;
+}
